@@ -1,2 +1,2 @@
 # archivepix-crawler
-Crawler for archivepix
+Crawler for astropix
